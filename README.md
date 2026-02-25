@@ -1,2 +1,18 @@
-# fast-finger-counter
-A high-performance real-time finger counter using OpenCV and MediaPipe with frame-skipping optimization.
+# Fast Finger Counter
+
+A Python project that counts fingers in real-time using your webcam.
+
+## Features
+- Uses OpenCV and Mediapipe
+- Optimized for speed on Debian/Linux
+- MJPG format for faster capture
+- Shows FPS and finger count
+
+## Requirements
+- Python 3.x
+- OpenCV (`pip install opencv-python`)
+- Mediapipe (`pip install mediapipe`)
+
+## Usage
+```bash
+python fast_finger_counter.py
