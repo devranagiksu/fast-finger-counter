@@ -4,7 +4,7 @@ A Python project that counts fingers in real-time using your webcam.
 
 ## Features
 - Uses OpenCV and Mediapipe
-- Optimized for speed on Debian/Linux
+- Optimized for speed on Linux
 - MJPG format for faster capture
 - Shows FPS and finger count
 
